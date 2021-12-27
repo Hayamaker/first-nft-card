@@ -1,2 +1,2 @@
 # first-repo
-My first ever repo in GH
+been testing things from here and there while referencing the gh guide
