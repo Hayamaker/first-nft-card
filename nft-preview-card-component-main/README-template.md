@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL!](https://github.com/Hayamaker/first-nft-card/blob/main/NFT%20Card%20By%20Hayamaker.html)
+- Solution URL: [Solution URL!](https://github.com/Hayamaker/first-nft-card/blob/main/nft-preview-card-component-main/NFT%20Card%20By%20Hayamaker.html)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
